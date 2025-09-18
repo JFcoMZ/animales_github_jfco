@@ -11,3 +11,7 @@ Cerdo
 Borrego
 Cabra
 Conejo
+Araña
+Mosquito
+Mariposa
+Lombriz
