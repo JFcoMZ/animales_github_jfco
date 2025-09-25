@@ -15,3 +15,6 @@ Araña
 Mosquito
 Mariposa
 Lombriz
+
+Dragón de Comodo
+Cocodrilo
